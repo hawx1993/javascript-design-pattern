@@ -1,0 +1,20 @@
+{
+  "name": "javascript-design-pattern",
+  "version": "0.0.1",
+  "description": "javascript design pattern that used in daily working",
+  "scripts": {
+    "test": "jest",
+    "ci": "npm run test -- --coverage"
+  },
+  "repository": {
+    "url": "trigkit4/javascript-design-pattern",
+    "type": "git"
+  },
+  "author": "trigkit4 <trigkit@g163.com> (github.com/hawx1993)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "jest": "23.6.0"
+  }
+}
