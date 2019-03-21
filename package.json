@@ -1,6 +1,6 @@
 {
   "name": "javascript-design-pattern",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "javascript design pattern that used in daily working",
   "scripts": {
     "test": "jest",
