@@ -1,4 +1,4 @@
-# javascript-design-pattern
+# JavaScript-design-pattern
 
 javascript design pattern that used in daily working
 
